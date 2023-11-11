@@ -2,7 +2,7 @@
 """
 Created in 2023
 
-@author: Local User
+@author: Quant Galore
 """
 
 import pandas as pd
